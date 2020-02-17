@@ -1,0 +1,194 @@
+[
+    {
+        "deuda": "Sodimac",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 3,
+        "monto": 16990,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Macbook Pro 2018",
+        "cuenta": "Cencosud",
+        "cuota": 13,
+        "cuotaRestante": 15,
+        "monto": 131000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Supermercado",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 87000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 10000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Cine",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 15000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 20000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Sodimac",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 3,
+        "monto": 16990,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Macbook Pro 2018",
+        "cuenta": "Cencosud",
+        "cuota": 13,
+        "cuotaRestante": 15,
+        "monto": 131000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Supermercado",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 87000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 10000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Cine",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 15000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 20000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Sodimac",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 3,
+        "monto": 16990,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Macbook Pro 2018",
+        "cuenta": "Cencosud",
+        "cuota": 13,
+        "cuotaRestante": 15,
+        "monto": 131000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Supermercado",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 87000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 10000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Cine",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 15000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 20000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Sodimac",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 3,
+        "monto": 16990,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Macbook Pro 2018",
+        "cuenta": "Cencosud",
+        "cuota": 13,
+        "cuotaRestante": 15,
+        "monto": 131000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Supermercado",
+        "cuenta": "CMR",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 87000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 10000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Cine",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 15000,
+        "fechaDeuda": ""
+    },
+    {
+        "deuda": "Prestamo chica",
+        "cuenta": "Efectivo",
+        "cuota": 1,
+        "cuotaRestante": 0,
+        "monto": 20000,
+        "fechaDeuda": ""
+    }
+]

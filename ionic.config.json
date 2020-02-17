@@ -1,7 +1,8 @@
 {
-  "name": "photo-gallery",
+  "name": "registro-cuentas",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }

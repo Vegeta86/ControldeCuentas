@@ -1,0 +1,20 @@
+[
+    {
+        "nombreCuenta": "MasterCard"
+    },
+    {
+        "nombreCuenta": "Visa"
+    },
+    {
+        "nombreCuenta": "CMR"
+    },
+    {
+        "nombreCuenta": "Cencosud"
+    },
+    {
+        "nombreCuenta": "Efectivo"
+    },
+    {
+        "nombreCuenta": "Debito"
+    }
+]

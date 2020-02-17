@@ -1,0 +1,92 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Editar mis datos
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-card-header><ion-title>Datos Personales</ion-title></ion-card-header>
+
+    <ion-card-content>
+      <ion-item lines="none">
+        <ion-label>Nombre: </ion-label>
+        <ion-input type="text" placeholder="{{ nombre }}"></ion-input>
+      </ion-item>
+      <ion-item lines="none">
+        <ion-label>Apellido Paterno: </ion-label>
+        <ion-input type="text" placeholder="{{ apellidoPat }}"></ion-input>
+      </ion-item>
+      <ion-item lines="none">
+        <ion-label>Apellido Materno: </ion-label>
+        <ion-input type="text" placeholder="{{ apellidoMat }}"></ion-input>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-header><ion-title>Parametros de Calculo</ion-title></ion-card-header>
+    <ion-card-content>
+      <ion-item lines="none">
+        <ion-label>Sueldo Liquido: </ion-label>
+        <ion-input type="number" placeholder="500000"></ion-input>
+      </ion-item>
+      <ion-item lines="none">
+        <ion-label>Dias Trabajados: </ion-label>
+        <ion-input type="number" placeholder="30"></ion-input>
+      </ion-item>
+
+      <ion-item lines="none">
+        <ion-list>
+          <ion-label>Medio de Transporte usado</ion-label>
+          <ion-radio-group>
+            <ion-item lines="none" >
+              <ion-label>Automovil</ion-label>
+              <ion-radio value="" slot="start"></ion-radio>
+              <ion-icon name="car-outline" slot="end" size="large"></ion-icon>
+            </ion-item>
+            <ion-item lines="none">
+              <ion-label>Micro</ion-label>
+              <ion-radio slot="start"></ion-radio>
+              <ion-icon name="bus-outline" slot="end" size="large"></ion-icon>
+            </ion-item>
+            <ion-item lines="none">
+              <ion-label>Metro</ion-label>
+              <ion-radio slot="start"></ion-radio>
+              <ion-icon name="train-outline" slot="end" size="large"></ion-icon>
+            </ion-item>
+            <ion-item lines="none">
+              <ion-label>Bicicleta</ion-label>
+              <ion-radio slot="start"></ion-radio>
+              <ion-icon name="bicycle-outline" slot="end" size="large"></ion-icon>
+            </ion-item>
+            <ion-item lines="none">
+              <ion-label>A pie</ion-label>
+              <ion-radio slot="start"></ion-radio>
+              <ion-icon name="walk-outline" slot="end" size="large"></ion-icon>
+            </ion-item>
+
+
+
+          </ion-radio-group>
+        </ion-list>
+
+      </ion-item>
+      
+
+      <ion-item lines="none">
+        <ion-label>Valor del pasaje : </ion-label>
+        <ion-input type="text" placeholder="700"></ion-input>
+      </ion-item>
+      <ion-item lines="none">
+        <ion-button>Agregar</ion-button>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-item lines="none">
+    <ion-button (click)="dismiss()">Cerrar</ion-button>
+  </ion-item>
+</ion-content>

@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { InfoUserService, Deuda } from '../info-user.service';
+
 
 @Component({
   selector: 'app-tab3',
@@ -7,6 +9,16 @@ import { Component } from '@angular/core';
 })
 export class Tab3Page {
 
-  constructor() {}
+  private listaDeudas: Deuda[];
+
+  constructor(private infoService: InfoUserService) {
+    this.listaDeudas = [];
+    this.infoService.traerListaDeudas().subscribe(res => {
+      this.listaDeudas = res;
+    });
+
+  }
 
 }
+
+
