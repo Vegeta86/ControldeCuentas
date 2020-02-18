@@ -1,8 +1,0 @@
-{
-  "name": "registro-cuentas",
-  "integrations": {
-    "capacitor": {},
-    "cordova": {}
-  },
-  "type": "angular"
-}
